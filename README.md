@@ -1,2 +1,3 @@
-# formik-enzyme-issue
-Demonstrates issue with Formik and enzyme
+To reproduce the issue:
+- npm i
+- npm run dev
